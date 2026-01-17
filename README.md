@@ -30,5 +30,12 @@ This project, completed as part of the **Master of Information Technology at UOW
 * `/Diagrams`: Exported BPMN 2.0 workflows and Architecture Diagrams.
 * `/Report`: The comprehensive 160+ page systems analysis report (PDF).
 
+## 🧑‍💻 Individual Contributions (Lead Analyst)
+While this project was a collaborative effort, as the **Project Leader**, I personally directed the technical strategy and was the primary author of the following sections:
+
+* **Business Process Engineering:** Created the full suite of **BPMN 2.0** diagrams (Task C) to bridge business requirements with technical execution.
+* **Performance Architecture:** Conducted the deep-dive **Bottleneck Analysis** (Task F), identifying latency in payment integrations and proposing the multithreaded solution.
+* **System Design:** Spearheaded the Service-Oriented Architecture (SOA) mapping and database optimization logic.
+
 ---
 *This project serves as a demonstration of my ability to bridge the gap between complex business requirements and high-performance technical solutions.*
